@@ -1,5 +1,5 @@
 def run():
-    from baseballgame import Game
+    from .baseballgame import Game
 
     newGame = Game("Phillies", "Mets")
 
